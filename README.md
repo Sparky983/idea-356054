@@ -3,7 +3,8 @@
 ## How to reproduce
 
 1. Clone this repository
-2. Attempt to open `src/main/java/example/Test.java`
+2. Wait until project is indexed (important)
+3. Attempt to open `src/main/java/example/Test.java`
 
 ## How to reproduce from scratch
 
